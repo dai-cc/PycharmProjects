@@ -1,0 +1,28 @@
+1597463258770	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\dmc\\AppData\\Local\\Temp\\rust_mozprofileiGLolU"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597463266189	Marionette	INFO	Listening on port 27958
+1597463266320	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 11376, Chrome_ChildThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 524
+1597463280291	Marionette	INFO	Stopped listening on port 27958
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597546648288	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\dmc\\AppData\\Local\\Temp\\rust_mozprofileBjqeQA"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597546652084	Marionette	INFO	Listening on port 40280
+1597546652562	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597546735289	Marionette	INFO	Stopped listening on port 40280
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597547274320	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\dmc\\AppData\\Local\\Temp\\rust_mozprofilefkUHxo"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597547277891	Marionette	INFO	Listening on port 40820
+1597547277942	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597547290826	Marionette	INFO	Stopped listening on port 40820
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
